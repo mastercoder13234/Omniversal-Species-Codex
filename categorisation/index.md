@@ -1,4 +1,4 @@
-<style src="../main.css"></style>
+<link rel="stylesheet" href="../main.css"></link>
 
 # Omniversal Species Codex
 

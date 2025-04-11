@@ -1,75 +1,57 @@
-<link rel="stylesheet" href="../main.css"></link>
-
 # Omniversal Species Codex
 
-Welcome, traveler, to the **[Omniversal Species Codex](..)**—a comprehensive, ever-expanding record documenting the countless forms of life scattered across the endless realities of the Omniverse. Here, you will find the full spectrum of existence, from the simplest single-celled organisms to the most powerful cosmic entities.
+Welcome to the **[Omniversal Species Codex](..)**—the most complete living archive of biological, conceptual, and transcendent life across the infinite spectra of reality. Here, we document every form of being, from the smallest symbiotic cell to the roaring gods of collapsing time.
 
-This endeavor spans all realms, dimensions, and timelines—if you can imagine it, somewhere, it exists. As an active contributor, you are part of an unprecedented collaboration to catalog and preserve these diverse beings for the ages. Your insights, additions, and discoveries will help shape this Codex, expanding its reach and depth.
+In the Codex, every species must be precisely slotted into the **Thirteenfold Taxonomic Ladder**: a universal structure designed to accommodate all forms of life, from the organic to the metaphysical. This system provides order amidst chaos, allowing explorers, scholars, and architects of reality to share, debate, and refine their discoveries.
 
-In the Codex, we classify species into three **main categories**:
+---
 
-1. **Corporeal Species** – These beings have physical forms and interact with the material world. This includes plants, creatures, and sentient beings with tangible bodies.
+## 🧬 The Thirteenfold Taxonomic Ladder
 
-2. **Incorporeal Species** – These entities lack physical form, existing as energy, spirits, or beings outside the constraints of the material realm. This includes ghosts, elementals, and cosmic entities.
+All species must be classified using these 13 tiers. Each tier narrows identity, function, or form. You are free to name classes within a tier, but no tier may be skipped. If something doesn’t fit, invent a name for what it is. Creation is classification.
 
-3. **Phral’zetharim Species** - These beings have a connection to Phral’zetharim, or what you may refer to as magic.
+### The 13 Standard Tiers:
 
-4. **Unclassified Species** – For species that do not fit neatly into the above categories or whose nature is yet to be understood. This section will evolve as we uncover more about the hidden corners of the Omniverse.
+1. **Imperium** — The highest realm of classification (e.g., Materialia, Etherica, Nullum)
+2. **Regnum** — Kingdom; a broad existential grouping
+3. **Phylum** — Structural or systemic form
+4. **Classis** — Functional essence or role
+5. **Ordo** — Behavioral lineage or methodology
+6. **Familia** — Core attributes and commonalities
+7. **Genus** — Morphological line
+8. **Forma** — Environmental adaptation
+9. **Codex** — Locational or cultural identifier
+10. **Typus** — Minor functional variant
+11. **Specia** — Specific identity
+12. **Index** — Unique subline or cast
+13. **Sigil** — The ultimate, unchanging identifier
 
-To contribute, please follow the categories below and use the **templates** provided. Should you wish to add or modify any species or classifications, fork this repository and submit a pull request. The Omniversal Government highly values collaboration, but discrimination in any form is strictly prohibited.
+Each class name within a tier must be a **single word**, preferably Latin-inspired or symbolic in nature. Proper spelling, grammar, or accuracy is *less important* than conveying essence.
 
-Let's explore the infinite possibilities together!
+---
 
-<details>
-  <summary><strong>Corporeal Species</strong></summary>
-  Corporeal species are beings that possess a physical form and exist within the material realm. These entities are tangible and can be perceived through the senses, from the smallest bacteria to the grandest of beasts. They range from plants that thrive in various ecosystems to complex creatures and sentient beings with intelligence and emotions. While they are bound by the laws of physics, corporeal species can possess remarkable adaptations, including evolved traits suited to their environment. They are the most familiar type of life, but their diversity across the Omniverse is limitless.
+## 📝 How to Use the Codex
 
-  <details>
-    <summary><strong>Sentient</strong></summary>
-    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, or energy, sentient beings leave imprints on reality—through art, war, or wonder.
-  </details>
+To contribute, fork this repository and add species entries using the template below. If a species doesn’t seem to fit into existing classes—create new ones. But you must assign it to all 13 tiers. The **Unclassified** section is reserved for truly unknowable entities.
 
-  <details>
-    <summary><strong>Non-Sentient</strong></summary>
-    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, and energy flows.
-  </details>
-</details>
+---
 
-<details>
-  <summary><strong>Incorporeal Species</strong></summary>
-  Incorporeal species are entities that exist beyond the physical realm, often intangible and invisible to those bound to the material world. These beings do not have a physical body but instead manifest as energy, consciousness, or spiritual essence. They include spirits, elemental forces, and cosmic entities, often existing in higher dimensions or parallel realities. Incorporeal species can interact with the material realm in subtle ways, such as influencing thoughts, manipulating energies, or guiding destinies. Despite their lack of a physical form, many of these entities possess intelligence, motives, and powers far beyond those of corporeal beings.
-  <details>
-    <summary><strong>Sentient</strong></summary>
-    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, or energy, sentient beings leave imprints on reality—through art, war, or wonder.
-  </details>
+## 📜 Species Taxonomic Template
 
-  <details>
-    <summary><strong>Non-Sentient</strong></summary>
-    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, and energy flows.
-  </details>
-</details>
+```markdown
+## Species Name: *Chiroxis Umbrae*
 
-<details>
-  <summary><strong>Phral’zetharim Species</strong></summary>
-  Phral’zetharim Species are entities intrinsically linked to the force known as <em>Phral’zetharim</em>—an omniversal phenomenon best understood as the act of willfully rewriting the foundational laws of existence. Some species produce it internally, their biology shaped around catalytic nexuses; others absorb it ambiently from regions saturated in raw metaphysical flux.
-
-  The manipulation of Phral’zetharim is tiered. Tiers 1 through 10 encompass the commonly observed spectrum—abilities ranging from elemental conjuration and spatial distortion to mid-scale temporal influence. However, above Tier 10 lies a domain so complex it collapses under the weight of traditional logic. Species operating at these higher tiers manipulate cause, probability, and ontology itself—realities bend, events retroactively fracture, and time weeps.
-
-  Despite their potency, Phral’zetharim Species are not inherently rare. In an infinite Omniverse, where every permutation of life eventually occurs, their existence is not anomaly—but inevitability.
-  <details>
-    <summary><strong>Sentient</strong></summary>
-    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, energy, or Phral’zetharim itself, sentient beings leave imprints on reality—through art, war, or wonder.
-  </details>
-
-  <details>
-    <summary><strong>Non-Sentient</strong></summary>
-    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, energy flows, and Phral’zetharic balances.
-  </details>
-</details>
-
-<details>
-  <summary><strong>Unclassified Species</strong></summary>
-  Unclassified species are those whose nature or origin does not fit neatly into the known categories of corporeal or incorporeal life. These beings may possess characteristics of both categories or may come from entirely unknown dimensions and planes of existence. Some may be newly discovered or still evolving, while others may exist in forms that defy current understanding. The Unclassified section serves as a place for species that challenge our current knowledge and as a repository for mysterious entities whose classification remains open for exploration. As we uncover more about these enigmatic beings, their stories will help expand the boundaries of the Omniversal Species Codex.
-
-  Note: There are no subcategories as these are what can not be classified. Few are capable of being expressed in a language like this.
-</details>
+- **Imperium**: Tenebros
+- **Regnum**: Noctilux
+- **Phylum**: Aerogena
+- **Classis**: Phasarii
+- **Ordo**: Somnavor
+- **Familia**: Umbrellae
+- **Genus**: Chirox
+- **Forma**: Cavare
+- **Codex**: Nyxar
+- **Typus**: Holoform
+- **Specia**: Umbrae
+- **Index**: 07x-S
+- **Sigil**: Aethros
+```

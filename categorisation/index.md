@@ -45,17 +45,19 @@ details[open] summary::before {
 
 # Omniversal Species Codex
 
-Welcome, traveler, to the **[Omniversal Species Codex](..)**—a comprehensive, ever-expanding record documenting the countless forms of life scattered across the endless realities of the Omniverse. Here, you will find the full spectrum of existence, from the simplest single-celled organisms to the most powerful cosmic entities. 
+Welcome, traveler, to the **[Omniversal Species Codex](..)**—a comprehensive, ever-expanding record documenting the countless forms of life scattered across the endless realities of the Omniverse. Here, you will find the full spectrum of existence, from the simplest single-celled organisms to the most powerful cosmic entities.
 
 This endeavor spans all realms, dimensions, and timelines—if you can imagine it, somewhere, it exists. As an active contributor, you are part of an unprecedented collaboration to catalog and preserve these diverse beings for the ages. Your insights, additions, and discoveries will help shape this Codex, expanding its reach and depth.
 
 In the Codex, we classify species into three **main categories**:
 
 1. **Corporeal Species** – These beings have physical forms and interact with the material world. This includes plants, creatures, and sentient beings with tangible bodies.
-   
+
 2. **Incorporeal Species** – These entities lack physical form, existing as energy, spirits, or beings outside the constraints of the material realm. This includes ghosts, elementals, and cosmic entities.
 
-3. **Unclassified Species** – For species that do not fit neatly into the above categories or whose nature is yet to be understood. This section will evolve as we uncover more about the hidden corners of the Omniverse.
+3. **Phral’zetharim Species** - These beings have a connection to Phral’zetharim, or what you may refer to as magic.
+
+4. **Unclassified Species** – For species that do not fit neatly into the above categories or whose nature is yet to be understood. This section will evolve as we uncover more about the hidden corners of the Omniverse.
 
 To contribute, please follow the categories below and use the **templates** provided. Should you wish to add or modify any species or classifications, fork this repository and submit a pull request. The Omniversal Government highly values collaboration, but discrimination in any form is strictly prohibited.
 

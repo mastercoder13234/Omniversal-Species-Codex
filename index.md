@@ -13,7 +13,7 @@ This Codex is a **shared space**, an ever-expanding chronicle, open to the contr
 - **Submit a pull request** to contribute your own entry.
 - Inside the `templates` folder, you will find formats to guide your contribution, ensuring the Codex remains clear and organized.
 
-For detailed instructions, please see the [Contributing Guidelines](CONTRIBUTING.md).
+For detailed instructions, please see the [Contributing Guidelines](contribute).
 
 ### 🔱 **Discrimination is Banned**
 In the Omniverse, we do not tolerate hatred or exclusion. **All species, all forms, all beings are equal under the gaze of the Omniversal Government**. Discrimination in any form—be it based on race, gender, appearance, or ideology—will be swiftly erased from the Codex, as it has no place in the multiverse.

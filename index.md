@@ -1,5 +1,3 @@
-# The Omniversal Species Codex
-
 Greetings, traveler.
 
 I am **Artemis Maximillion**, Chief Justice of the Supreme Omniversal Court. I have walked the length and breadth of existence, across countless realities, and have witnessed the birth and decay of innumerable worlds. From the cosmic void to the heart of chaos, I have seen species of all forms, across all realms. And now, I offer you the key to their **documentation**—the **Omniversal Species Codex**.

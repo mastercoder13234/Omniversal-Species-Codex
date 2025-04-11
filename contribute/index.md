@@ -1,4 +1,4 @@
-# Contributing to the Omniversal Species Codex
+## Contributing to the Omniversal Species Codex
 
 Greetings, traveler.
 
@@ -6,7 +6,7 @@ By entering the **Omniversal Species Codex**, you are joining an eternal, living
 
 Please follow the guidelines below to ensure your addition is properly documented and fits within the Codex.
 
-## ✨ How to Contribute
+### ✨ How to Contribute
 
 1. **Fork the Repository**: 
    - Click the “Fork” button at the top of this page to create your own copy of the repository.
@@ -26,7 +26,7 @@ Please follow the guidelines below to ensure your addition is properly documente
 
 ---
 
-## 🔱 **Guidelines for Contributions**
+### 🔱 **Guidelines for Contributions**
 
 - **Respect the Omniversal Diversity**: The Codex welcomes **all species** from all realms, dimensions, and timelines. There is no species too small or too grand to be recorded.
   
@@ -38,11 +38,11 @@ Please follow the guidelines below to ensure your addition is properly documente
 
 ---
 
-## 🌌 **License**
+### 🌌 **License**
 This project is licensed under the **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)** license. Contributions are welcome, but remember:
 - No commercial use.
 - No derivative works or modifications are allowed without explicit permission.
 
 ---
 
-### ✨ **Welcome to the Codex. Let your species be remembered forever.**
+#### ✨ **Welcome to the Codex. Let your species be remembered forever.**

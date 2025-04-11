@@ -1,4 +1,4 @@
-## Contributing to the Omniversal Species Codex
+# Contributing to the Omniversal Species Codex
 
 Greetings, traveler.
 
@@ -6,27 +6,27 @@ By entering the **[Omniversal Species Codex](..)**, you are joining an eternal, 
 
 Please follow the guidelines below to ensure your addition is properly documented and fits within the Codex.
 
-### ✨ How to Contribute
+## ✨ How to Contribute
 
-1. **Fork the Repository**: 
+1. **Fork the Repository**:
    - Click the “Fork” button at the top of this page to create your own copy of the repository.
-   
-2. **Create a New Folder**: 
+
+2. **Create a New Folder**:
    - Name your branch appropriately, under the right categories.
 
-3. **Add Your Species**: 
-   - Navigate to the `templates` folder and choose the appropriate template for the species you are documenting. 
+3. **Add Your Species**:
+   - Navigate to the `templates` folder and choose the appropriate template for the species you are documenting.
    - Fill in the details, providing as much or as little information as you feel necessary, but keep the tone consistent with the Codex. Remember, this is a living, cosmic archive, so think grand and detailed.
 
-4. **Submit a Pull Request**: 
+4. **Submit a Pull Request**:
    - Once your species is ready, **submit a pull request** with your changes. A brief description of your entry is always appreciated.
 
-5. **Review and Merge**: 
+5. **Review and Merge**:
    - I, Artemis Maximillion, will review your pull request. If it aligns with the Codex, it will be merged. If there are issues, you will be notified with the necessary changes to be made.
 
 ---
 
-### 🔱 **Guidelines for Contributions**
+## 🔱 **Guidelines for Contributions**
 
 - **Respect the Omniversal Diversity**: The Codex welcomes **all species** from all realms, dimensions, and timelines. There is no species too small or too grand to be recorded.
   

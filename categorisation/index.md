@@ -1,4 +1,4 @@
-# Omniversal Species Codex
+# Omniversal Species Codex Taxonomic Tree
 
 Welcome to the **[Omniversal Species Codex](..)**—the most complete living archive of biological, conceptual, and transcendent life across the infinite spectra of reality. Here, we document every form of being, from the smallest symbiotic cell to the roaring gods of collapsing time.
 

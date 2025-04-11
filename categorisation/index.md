@@ -30,7 +30,7 @@ summary::-webkit-details-marker {
 }
 
 summary::before {
-  content: '▶ ';
+  content: '▶  ';
   display: inline-block;
   transform: rotate(0deg);
   transition: transform 0.3s ease;
@@ -79,6 +79,15 @@ Let's explore the infinite possibilities together!
 <details>
   <summary><strong>Incorporeal Species</strong></summary>
   Incorporeal species are entities that exist beyond the physical realm, often intangible and invisible to those bound to the material world. These beings do not have a physical body but instead manifest as energy, consciousness, or spiritual essence. They include spirits, elemental forces, and cosmic entities, often existing in higher dimensions or parallel realities. Incorporeal species can interact with the material realm in subtle ways, such as influencing thoughts, manipulating energies, or guiding destinies. Despite their lack of a physical form, many of these entities possess intelligence, motives, and powers far beyond those of corporeal beings.
+  <details>
+    <summary><strong>Sentient</strong></summary>
+    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, energy, or Phral’zetharim itself, sentient beings leave imprints on reality—through art, war, or wonder.
+  </details>
+
+  <details>
+    <summary><strong>Non-Sentient</strong></summary>
+    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, energy flows, and Phral’zetharic balances.
+  </details>
 </details>
 
 <details>
@@ -88,6 +97,15 @@ Let's explore the infinite possibilities together!
   The manipulation of Phral’zetharim is tiered. Tiers 1 through 10 encompass the commonly observed spectrum—abilities ranging from elemental conjuration and spatial distortion to mid-scale temporal influence. However, above Tier 10 lies a domain so complex it collapses under the weight of traditional logic. Species operating at these higher tiers manipulate cause, probability, and ontology itself—realities bend, events retroactively fracture, and time weeps.
 
   Despite their potency, Phral’zetharim Species are not inherently rare. In an infinite Omniverse, where every permutation of life eventually occurs, their existence is not anomaly—but inevitability.
+  <details>
+    <summary><strong>Sentient</strong></summary>
+    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, energy, or Phral’zetharim itself, sentient beings leave imprints on reality—through art, war, or wonder.
+  </details>
+
+  <details>
+    <summary><strong>Non-Sentient</strong></summary>
+    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, energy flows, and Phral’zetharic balances.
+  </details>
 </details>
 
 <details>

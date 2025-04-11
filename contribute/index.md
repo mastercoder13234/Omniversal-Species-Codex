@@ -2,7 +2,7 @@
 
 Greetings, traveler.
 
-By entering the **Omniversal Species Codex**, you are joining an eternal, living record of all the species that span the Omniverse. This is a **collaborative project**, where every species—every life form—has a place, and your contribution matters.
+By entering the **[Omniversal Species Codex](..)**, you are joining an eternal, living record of all the species that span the Omniverse. This is a **collaborative project**, where every species—every life form—has a place, and your contribution matters.
 
 Please follow the guidelines below to ensure your addition is properly documented and fits within the Codex.
 
@@ -11,8 +11,8 @@ Please follow the guidelines below to ensure your addition is properly documente
 1. **Fork the Repository**: 
    - Click the “Fork” button at the top of this page to create your own copy of the repository.
    
-2. **Create a New Branch**: 
-   - Name your branch appropriately, e.g., `species-[name-of-your-species]`.
+2. **Create a New Folder**: 
+   - Name your branch appropriately, under the right categories.
 
 3. **Add Your Species**: 
    - Navigate to the `templates` folder and choose the appropriate template for the species you are documenting. 

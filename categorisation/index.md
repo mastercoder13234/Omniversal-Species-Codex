@@ -1,47 +1,4 @@
-<style>
-details {
-  background: #1b1b1f;
-  color: #eaeaea;
-  border: 1px solid #444;
-  border-radius: 8px;
-  padding: 0.6em 1em;
-  margin: 1em 0;
-  transition: all 0.3s ease;
-}
-
-details:hover {
-  background-color: #26262c;
-  border-color: #666;
-}
-
-details[open] {
-  box-shadow: 0 0 12px rgba(160, 80, 255, 0.3);
-}
-
-summary {
-  font-weight: bold;
-  font-size: 1.1em;
-  cursor: pointer;
-  outline: none;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-summary::before {
-  content: '▶  ';
-  display: inline-block;
-  transform: rotate(0deg);
-  transition: transform 0.3s ease;
-  color: #a05fff;
-}
-
-details[open] summary::before {
-  transform: rotate(90deg);
-  color: #c97fff;
-}
-</style>
+<style src="../main.css"></style>
 
 # Omniversal Species Codex
 
@@ -65,16 +22,16 @@ Let's explore the infinite possibilities together!
 
 <details>
   <summary><strong>Corporeal Species</strong></summary>
-  Corporeal species are beings that possess a physical form and exist within the material realm. These entities are tangible and can be perceived through the senses, from the smallest bacteria to the grandest of beasts. They range from plants that thrive in various ecosystems to complex creatures and sentient beings with intelligence and emotions. While they are bound by the laws of physics, corporeal species can possess remarkable adaptations, including magical abilities or evolved traits suited to their environment. They are the most familiar type of life, but their diversity across the Omniverse is limitless.
+  Corporeal species are beings that possess a physical form and exist within the material realm. These entities are tangible and can be perceived through the senses, from the smallest bacteria to the grandest of beasts. They range from plants that thrive in various ecosystems to complex creatures and sentient beings with intelligence and emotions. While they are bound by the laws of physics, corporeal species can possess remarkable adaptations, including evolved traits suited to their environment. They are the most familiar type of life, but their diversity across the Omniverse is limitless.
 
   <details>
     <summary><strong>Sentient</strong></summary>
-    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, energy, or Phral’zetharim itself, sentient beings leave imprints on reality—through art, war, or wonder.
+    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, or energy, sentient beings leave imprints on reality—through art, war, or wonder.
   </details>
 
   <details>
     <summary><strong>Non-Sentient</strong></summary>
-    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, energy flows, and Phral’zetharic balances.
+    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, and energy flows.
   </details>
 </details>
 
@@ -83,12 +40,12 @@ Let's explore the infinite possibilities together!
   Incorporeal species are entities that exist beyond the physical realm, often intangible and invisible to those bound to the material world. These beings do not have a physical body but instead manifest as energy, consciousness, or spiritual essence. They include spirits, elemental forces, and cosmic entities, often existing in higher dimensions or parallel realities. Incorporeal species can interact with the material realm in subtle ways, such as influencing thoughts, manipulating energies, or guiding destinies. Despite their lack of a physical form, many of these entities possess intelligence, motives, and powers far beyond those of corporeal beings.
   <details>
     <summary><strong>Sentient</strong></summary>
-    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, energy, or Phral’zetharim itself, sentient beings leave imprints on reality—through art, war, or wonder.
+    Sentient species possess self-awareness, cognition, and the capacity for abstract thought. They may exhibit language, emotion, social structures, and philosophical introspection. Their actions are not merely instinctual but shaped by intent, curiosity, and often, conflict. Whether forged from matter, or energy, sentient beings leave imprints on reality—through art, war, or wonder.
   </details>
 
   <details>
     <summary><strong>Non-Sentient</strong></summary>
-    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, energy flows, and Phral’zetharic balances.
+    Non-sentient species operate without conscious will or abstract reasoning. Their existence is governed by instinct, programming, environmental stimulus, or deeper forces they neither control nor comprehend. Though they may act with complexity, their patterns are not born from self-reflection. Yet even without awareness, their role in the Omniverse is vital—woven into ecosystems, and energy flows.
   </details>
 </details>
 
@@ -113,4 +70,6 @@ Let's explore the infinite possibilities together!
 <details>
   <summary><strong>Unclassified Species</strong></summary>
   Unclassified species are those whose nature or origin does not fit neatly into the known categories of corporeal or incorporeal life. These beings may possess characteristics of both categories or may come from entirely unknown dimensions and planes of existence. Some may be newly discovered or still evolving, while others may exist in forms that defy current understanding. The Unclassified section serves as a place for species that challenge our current knowledge and as a repository for mysterious entities whose classification remains open for exploration. As we uncover more about these enigmatic beings, their stories will help expand the boundaries of the Omniversal Species Codex.
+
+  Note: There are no subcategories as these are what can not be classified. Few are capable of being expressed in a language like this.
 </details>

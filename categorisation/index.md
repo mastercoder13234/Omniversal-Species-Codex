@@ -1,57 +1,65 @@
-# Omniversal Species Codex Taxonomic Tree
+# 🧬 Omniversal Species Codex: The Thirteenfold Taxonomic Tree
 
-Welcome to the **[Omniversal Species Codex](..)**—the most complete living archive of biological, conceptual, and transcendent life across the infinite spectra of reality. Here, we document every form of being, from the smallest symbiotic cell to the roaring gods of collapsing time.
+Welcome to the **Omniversal Species Codex**—the most complete living archive of biological, conceptual, and transcendent life across the infinite spectra of reality. Here, we document every form of being, from the smallest quantum parasite to collapsing gods suspended in entropy.
 
-In the Codex, every species must be precisely slotted into the **Thirteenfold Taxonomic Ladder**: a universal structure designed to accommodate all forms of life, from the organic to the metaphysical. This system provides order amidst chaos, allowing explorers, scholars, and architects of reality to share, debate, and refine their discoveries.
-
----
-
-## 🧬 The Thirteenfold Taxonomic Ladder
-
-All species must be classified using these 13 tiers. Each tier narrows identity, function, or form. You are free to name classes within a tier, but no tier may be skipped. If something doesn’t fit, invent a name for what it is. Creation is classification.
-
-### The 13 Standard Tiers:
-
-1. **Imperium** — The highest realm of classification (e.g., Materialia, Etherica, Nullum)
-2. **Regnum** — Kingdom; a broad existential grouping
-3. **Phylum** — Structural or systemic form
-4. **Classis** — Functional essence or role
-5. **Ordo** — Behavioral lineage or methodology
-6. **Familia** — Core attributes and commonalities
-7. **Genus** — Morphological line
-8. **Forma** — Environmental adaptation
-9. **Codex** — Locational or cultural identifier
-10. **Typus** — Minor functional variant
-11. **Specia** — Specific identity
-12. **Index** — Unique subline or cast
-13. **Sigil** — The ultimate, unchanging identifier
-
-Each class name within a tier must be a **single word**, preferably Latin-inspired or symbolic in nature. Proper spelling, grammar, or accuracy is *less important* than conveying essence.
+In this Codex, all life—biological, artificial, ideological, or ineffable—is classified under the **Thirteenfold Taxonomic Ladder**, an omniversal framework designed to bring cosmic order to existential chaos.
 
 ---
 
-## 📝 How to Use the Codex
+## 🌌 The Thirteenfold Taxonomic Ladder
 
-To contribute, fork this repository and add species entries using the template below. If a species doesn’t seem to fit into existing classes—create new ones. But you must assign it to all 13 tiers. The **Unclassified** section is reserved for truly unknowable entities.
+Every being is classified using **13 hierarchical tiers**, ranging from the most abstract meta-context to the final personal signature of the being’s essence. The tiers are **non-optional**: if your species doesn’t fit one, invent a term. To name is to define. To define is to anchor reality. For the rare Unclassified species, skip this alltogether. 
+
+| Tier      | Description |
+|-----------|-------------|
+| **1. Dominion** | Suprareality context or plane of origin (e.g., Materialia, Etherica, Chronostatis) |
+| **2. Imperium** | Existential class or metaphysical order (e.g., Corporea, Voidborn, Simulata) |
+| **3. Axis** | Fundamental principle or alignment (e.g., Order, Chaos, Flux, Stasis) |
+| **4. Regnum** | Kingdom; existential biology (e.g., Animalia, Machina, Sententia) |
+| **5. Phylum** | Structural or systemic composition (e.g., Chordata, Siliconis, Aetheromorph) |
+| **6. Classis** | Functional or essential behavior (e.g., Mammalia, Warformia, Chronophage) |
+| **7. Ordo** | Evolutionary or methodological path (e.g., Primates, Infomorphs, Harvesters) |
+| **8. Familia** | Morphic or conceptual commonality (e.g., Hominidae, Dreamweavers) |
+| **9. Genus** | Memetic, morphological, or archetypal line (e.g., Homo, Chirox) |
+| **10. Specia** | Specific identity (e.g., sapiens, umbros) |
+| **11. Index** | Subline or variant code (e.g., 07x-S, A1V4) |
+| **12. Sigil** | Immutable core glyph, sound, or truth representing the being |
+| **13. Echo** | What lingers after death; conceptual, sensory, or dimensional imprint |
+
+> ✦ All entries within a tier must be a **single word**—Latin-inspired, mythic, poetic, or symbolic. Phonetics matter. Grammar does not. Truth is optional.
 
 ---
 
-## 📜 Species Taxonomic Template
+## Examples
 
-```markdown
-## Species Name: *Chiroxis Umbrae*
+### Species Name: *Homo sapiens*
 
-- **Imperium**: Tenebros
+- **Dominion**: Materialia
+- **Imperium**: Corporea
+- **Axis**: Order
+- **Regnum**: Animalia
+- **Phylum**: Chordata
+- **Classis**: Mammalia
+- **Ordo**: Primates
+- **Familia**: Hominidae
+- **Genus**: Homo
+- **Specia**: sapiens
+- **Index**: T-22B
+- **Sigil**: Cogitare
+- **Echo**: Fossil Memory
+
+### Species Name: *Chiroxis Umbrae*
+
+- **Dominion**: Tenebros
+- **Imperium**: Noctivaga
+- **Axis**: Flux
 - **Regnum**: Noctilux
 - **Phylum**: Aerogena
 - **Classis**: Phasarii
 - **Ordo**: Somnavor
 - **Familia**: Umbrellae
 - **Genus**: Chirox
-- **Forma**: Cavare
-- **Codex**: Nyxar
-- **Typus**: Holoform
 - **Specia**: Umbrae
 - **Index**: 07x-S
 - **Sigil**: Aethros
-```
+- **Echo**: Dreamless Whisper
